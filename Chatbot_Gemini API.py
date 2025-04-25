@@ -19,7 +19,7 @@ from IPython.display import display
 
 
 # Replace with your actual API key
-API_KEY = "AIzaSyB--Wa4Nb6cKeI_XmlaGYVh5TSaXXFe07M"
+API_KEY = "..."
 
 
 # In[14]:
